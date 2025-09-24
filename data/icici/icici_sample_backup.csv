@@ -1,0 +1,6 @@
+Date,Description,Debit,Credit,Balance
+01/01/2024,Opening Balance,,10000.00,10000.00
+02/01/2024,ATM Withdrawal,500.00,,9500.00
+03/01/2024,Online Transfer,1200.00,,8300.00
+05/01/2024,Salary Credit,,50000.00,58300.00
+07/01/2024,Bill Payment,2500.00,,55800.00
